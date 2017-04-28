@@ -1,0 +1,13 @@
+{
+  "Type" : "SubscriptionConfirmation",
+  "MessageId" : "487c00ca-57e4-482f-96c9-e001df0d62fa",
+  "Token" : "2336412f37fb687f5d51e6e241d59b68c9f41a48b2f39d31e1c520ab0503435328da91b8a6fc0dac1d0a52997119b0c83036980a74903757bf58dd17fd82a72625ad630c0f14e30515cceecbc88f3caa990f7d9a4b51cfa127492b7e6be14a7ffede980192beda3f11b95bf013a4712e",
+  "TopicArn" : "arn:aws:sns:us-east-1:443664113133:test",
+  "Message" : "You have chosen to subscribe to the topic arn:aws:sns:us-east-1:443664113133:test.\nTo confirm the subscription, visit the SubscribeURL included in this message.",
+  "SubscribeURL" : "https://sns.us-east-1.amazonaws.com/?Action=ConfirmSubscription&TopicArn=arn:aws:sns:us-east-1:443664113133:test&Token=2336412f37fb687f5d51e6e241d59b68c9f41a48b2f39d31e1c520ab0503435328da91b8a6fc0dac1d0a52997119b0c83036980a74903757bf58dd17fd82a72625ad630c0f14e30515cceecbc88f3caa990f7d9a4b51cfa127492b7e6be14a7ffede980192beda3f11b95bf013a4712e",
+  "Timestamp" : "2017-04-28T07:02:40.661Z",
+  "SignatureVersion" : "1",
+  "Signature" : "as/CmlCxRxV1EA/S1aP5GXAlhmaaIktblU9jK7U8YZt7Qx/C8MG75g41bLgx8cfPg1T5bB1zCFtn8bMOaLhKNL0fsY4U4xyFE70KLkyTe9lgPQCTxoIf8X+BZGcG9ILbIxcnOqNhLtF7FSwnejdwHpwhI83FmMvHdEnQuD+RxRxsRc9Mj45gTv3xPKwnLZlCaYgU2ee7OhyAOHDmxsPhVToI4yf0D3RPYXa5wJxhWbt07F2VqotbPNYOxxT1qYA3ng8B5dNu4gy0rB6tOWE17n9NZfrFAKzxuPh+wvuORrrvFHTgDM38GA9AMCuBf3CJSPAAxjLH54B85dVHNqdx3A==",
+  "SigningCertURL" : "https://sns.us-east-1.amazonaws.com/SimpleNotificationService-b95095beb82e8f6a046b3aafc7f4149a.pem"
+}
+confirmation:
